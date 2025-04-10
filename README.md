@@ -1,4 +1,5 @@
 # MindMap-revise
+"Due to updates in LangChain, the code from two years ago has encountered many issues. This repository provides a synchronized and updated version."
 ```python
 
 @inproceedings{wen2023mindmap,
