@@ -10,3 +10,5 @@
 }
 
 ```
+
+2025/5/8：add self-consistency,Tree-of-thought,Selfcheck
